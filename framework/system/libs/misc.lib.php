@@ -1332,7 +1332,7 @@ function getCountrySettings($country){
     $arrCountry["Iceland"] = array("code"=>"354","language"=>"is","tonezone"=>"is");
     $arrCountry["India"] = array("code"=>"91","language"=>"hi","tonezone"=>"in");
     $arrCountry["Indian Ocean"] = array("code"=>"","language"=>"","tonezone"=>"");
-    $arrCountry["Indonesia"] = array("code"=>"92","language"=>"id","tonezone"=>"id");
+    $arrCountry["Indonesia"] = array("code"=>"62","language"=>"id","tonezone"=>"id");
     $arrCountry["Iran"] = array("code"=>"98","language"=>"ku","tonezone"=>"ir");
     $arrCountry["Iraq"] = array("code"=>"964","language"=>"ar","tonezone"=>"iq");
     $arrCountry["Ireland"] = array("code"=>"353","language"=>"en","tonezone"=>"ie");
